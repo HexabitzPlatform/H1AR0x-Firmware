@@ -1,0 +1,17 @@
+..\..\H1AR0\H1AR0_uart.c:27:6:MX_USART1_UART_Init	1
+..\..\H1AR0\H1AR0_uart.c:58:6:MX_USART2_UART_Init	1
+..\..\H1AR0\H1AR0_uart.c:89:6:MX_USART3_UART_Init	1
+..\..\H1AR0\H1AR0_uart.c:120:6:MX_USART4_UART_Init	1
+..\..\H1AR0\H1AR0_uart.c:145:6:MX_USART5_UART_Init	1
+..\..\H1AR0\H1AR0_uart.c:170:6:MX_USART6_UART_Init	1
+..\..\H1AR0\H1AR0_uart.c:193:6:HAL_UART_MspInit	7
+..\..\H1AR0\H1AR0_uart.c:428:19:readPxMutex	5
+..\..\H1AR0\H1AR0_uart.c:446:19:writePxMutex	5
+..\..\H1AR0\H1AR0_uart.c:464:19:readPxITMutex	3
+..\..\H1AR0\H1AR0_uart.c:478:19:writePxITMutex	3
+..\..\H1AR0\H1AR0_uart.c:496:12:UpdateBaudrate	1
+..\..\H1AR0\H1AR0_uart.c:508:21:GetUart	8
+..\..\H1AR0\H1AR0_uart.c:557:6:SwapUartPins	4
+..\..\H1AR0\H1AR0_uart.c:578:12:ReadPortsDir	5
+..\..\H1AR0\H1AR0_uart.c:602:12:ReadPortsDirMSG	3
+..\..\H1AR0\H1AR0_uart.c:619:12:UpdateMyPortsDir	3

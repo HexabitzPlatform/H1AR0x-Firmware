@@ -1,0 +1,6 @@
+..\..\H1AR0\H1AR0_rtc.c:31:12:RTC_Init	6
+..\..\H1AR0\H1AR0_rtc.c:78:12:RTC_CalendarConfig	5
+..\..\H1AR0\H1AR0_rtc.c:130:12:BOS_CalendarConfig	7
+..\..\H1AR0\H1AR0_rtc.c:186:6:GetTimeDate	1
+..\..\H1AR0\H1AR0_rtc.c:206:6:HAL_RTC_MspInit	2
+..\..\H1AR0\H1AR0_rtc.c:224:6:HAL_RTC_MspDeInit	2

@@ -1,0 +1,8 @@
+../../Thirdparty/CMSIS/STM32G0xx/Include/core_cm0plus.h:985:34:__NVIC_SystemReset	1
+..\..\H1AR0\H1AR0_eeprom.c:21:12:EE_Init	3
+..\..\H1AR0\H1AR0_eeprom.c:43:12:EE_ReadVariable	2
+..\..\H1AR0\H1AR0_eeprom.c:57:12:EE_WriteVariable	3
+..\..\H1AR0\H1AR0_eeprom.c:77:12:EE_Format	2
+..\..\H1AR0\H1AR0_eeprom.c:96:10:Flash_WriteVariable	2
+..\..\H1AR0\H1AR0_eeprom.c:121:12:EraseSector	3
+..\..\H1AR0\H1AR0_eeprom.c:137:6:EE_FormatForFactoryReset	3

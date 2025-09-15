@@ -1,0 +1,11 @@
+..\..\H1AR0\H1AR0_dma.c:22:6:DMA_Init	1
+..\..\H1AR0\H1AR0_dma.c:45:12:SetupMessagingRxDMAs	13
+..\..\H1AR0\H1AR0_dma.c:95:12:DMA_MSG_RX_Setup	2
+..\..\H1AR0\H1AR0_dma.c:108:12:DMA_STREAM_Setup	4
+..\..\H1AR0\H1AR0_dma.c:137:12:StopDMA	3
+..\..\H1AR0\H1AR0_dma.c:159:12:SwitchMsgDMAToStream	2
+..\..\H1AR0\H1AR0_dma.c:174:12:SwitchStreamDMAToMsg	3
+..\..\H1AR0\H1AR0_dma.c:197:6:CRC_Init	1
+..\..\H1AR0\H1AR0_dma.c:209:6:HAL_CRC_MspInit	1
+..\..\H1AR0\H1AR0_dma.c:215:6:HAL_CRC_MspDeInit	1
+..\..\H1AR0\H1AR0_dma.c:222:9:CalculateCRC8	9

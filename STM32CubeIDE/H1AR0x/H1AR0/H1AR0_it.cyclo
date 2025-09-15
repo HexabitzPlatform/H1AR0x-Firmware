@@ -1,0 +1,16 @@
+../../Thirdparty/CMSIS/STM32G0xx/Include/core_cm0plus.h:985:34:__NVIC_SystemReset	1
+..\..\H1AR0\H1AR0_it.c:30:6:SysTick_Handler	1
+..\..\H1AR0\H1AR0_it.c:39:6:HardFault_Handler	0
+..\..\H1AR0\H1AR0_it.c:58:6:HAL_UARTEx_RxEventCallback	3
+..\..\H1AR0\H1AR0_it.c:76:6:USART1_IRQHandler	4
+..\..\H1AR0\H1AR0_it.c:102:6:USART2_LPUART2_IRQHandler	4
+..\..\H1AR0\H1AR0_it.c:125:6:USART3_4_5_6_LPUART1_IRQHandler	10
+..\..\H1AR0\H1AR0_it.c:184:6:DMA1_Channel1_IRQHandler	1
+..\..\H1AR0\H1AR0_it.c:192:6:DMA1_Channel2_3_IRQHandler	3
+..\..\H1AR0\H1AR0_it.c:206:6:DMA1_Ch4_7_DMA2_Ch1_5_DMAMUX1_OVR_IRQHandler	4
+..\..\H1AR0\H1AR0_it.c:225:6:HAL_UART_TxCpltCallback	2
+..\..\H1AR0\H1AR0_it.c:236:6:HAL_UART_ErrorCallback	2
+..\..\H1AR0\H1AR0_it.c:257:6:HAL_UART_RxCpltCallback	1
+..\..\H1AR0\H1AR0_it.c:263:6:HAL_UARTEx_WakeupCallback	4
+..\..\H1AR0\H1AR0_it.c:281:6:vApplicationStackOverflowHook	0
+..\..\H1AR0\H1AR0_it.c:300:6:vApplicationMallocFailedHook	0
